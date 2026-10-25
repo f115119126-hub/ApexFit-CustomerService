@@ -1,0 +1,6 @@
+{
+  "name": "ApexFit 極限動能健身中心 AI 客服系統",
+  "description": "專為 ApexFit 極限動能健身中心打造的 AI 智能客服系統，支援 SQLite 資料庫檢索、會籍費用精算、客訴真人轉接與即時工具調用歷程可視化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
